@@ -1,4 +1,3 @@
-testing github
 """Skills Assessment: Lists.
 
 To work on an item, uncomment the entire function (including the docstring)
